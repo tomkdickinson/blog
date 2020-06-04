@@ -19,8 +19,7 @@ layered nature), and Ports and Adapters (which is a more functional description)
 A quick google with show many posts that will explain it far better than I can, and in more detail, but as a quick 
 overview take a look at the following diagram.
 
-### TODO ADD IMAGE
-
+![hexagonal-example](https://tomkdickinson-blog.s3.eu-west-2.amazonaws.com/hexagonal-architecture.png)
 
 The general idea is to separate your interaction logic from your domain logic. For example, let’s say you have 
 implemented this pattern and are currently using Mongo as your storage option but find your data has now become 
