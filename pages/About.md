@@ -1,3 +1,1 @@
-# About
-
-This is the about page
+My name is Tom, and I'm a Senior Software Engineer
