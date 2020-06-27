@@ -71,7 +71,7 @@ v0.3.0.
 Now we’ve covered the architecture pattern and a DI framework for Go, let’s take a look at how we might build an 
 application.
 
-The repository for this example can be found here: https://github.com/tomkdickinson/hexagonal-cart-service. The README 
+The repository for this example can be found here: [https://github.com/tomkdickinson/hexagonal-cart-service](https://github.com/tomkdickinson/hexagonal-cart-service). The README 
 file details how to start the service, and I’ve also included a docker compose file which I’ll refer to for the rest of
  this post. Feel free to run it however you want though.
 
@@ -96,7 +96,7 @@ CART_STORAGE=file
 
 ## The Folder Structure
 
-This project uses the folder layout specified in https://github.com/golang-standards/project-layout. The only two 
+This project uses the folder layout specified in [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout). The only two 
 folders that are used in this project though are cmd and internal. The former contains our main package, while the 
 latter is our internal private packages specific to this project.
 
